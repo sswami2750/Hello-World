@@ -1,2 +1,2 @@
 # Hello-World
-Classic Hello-World Script in Python
+Classic Hello-World Program.  Script coded in python
